@@ -36,6 +36,7 @@ module.exports = {
   /**
    * Initialize Git model
    *
+   *
    * @return     {Object}  Git model instance
    */
   init() {
